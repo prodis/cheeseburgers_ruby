@@ -1,9 +1,11 @@
 = cheeseburgers_ruby
 
 Código do artigo "Cheeseburgers, Decorators e Ruby" que mostra um exemplo de Decorator Pattern utilizando Ruby.
-http://prodis.pro.br/2009/09/13/cheeseburgers-decorators-e-ruby
+
+[http://prodis.pro.br/2009/09/13/cheeseburgers-decorators-e-ruby]
 
 == Autoria
 
 Prodis a.k.a. Fernando Hamasaki de Amorim
-http://prodis.pro.br
+
+[http://prodis.pro.br]
